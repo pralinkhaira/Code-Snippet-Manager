@@ -52,7 +52,7 @@ The Code Snippet Manager is a Python application that allows you to store, organ
 
 ## Contributing
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the [GitHub repository](https://github.com/your-username/code-snippet-manager). 
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the [GitHub repository](https://github.com/BitH0xker/Code-Snippet-Manager). 
 
 If you would like to contribute code, please follow these steps:
 
