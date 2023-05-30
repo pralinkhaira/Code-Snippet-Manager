@@ -20,7 +20,7 @@ The Code Snippet Manager is a Python application that allows you to store, organ
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BitH0xker/Code-Snippet-Manager.git
+   git clone https://github.com/PralinKhaira/Code-Snippet-Manager.git
    ```
 
 2. Navigate to the project directory:
