@@ -62,6 +62,10 @@ If you would like to contribute code, please follow these steps:
 4. Push your changes to your fork.
 5. Submit a pull request.
 
+## ScreenShot
+
+![Code Snippet Manager](https://i.imgur.com/fYAKJST.png)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
